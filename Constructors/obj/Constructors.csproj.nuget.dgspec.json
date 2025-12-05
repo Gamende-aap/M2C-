@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {}
+    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Constructors\\Constructors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {
+    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Constructors\\Constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
-        "projectName": "Classes",
-        "projectPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Constructors\\Constructors.csproj",
+        "projectName": "Constructors",
+        "projectPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Constructors\\Constructors.csproj",
         "packagesPath": "C:\\Users\\Tygo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Constructors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tygo\\AppData\\Roaming\\NuGet\\NuGet.Config"
