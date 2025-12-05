@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {}
+    "c:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {
+    "c:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
+        "projectUniqueName": "c:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
+        "projectPath": "c:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Tygo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\obj\\",
+        "outputPath": "c:\\Users\\Tygo\\Documents\\SD1A\\M2\\C#\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tygo\\AppData\\Roaming\\NuGet\\NuGet.Config"
